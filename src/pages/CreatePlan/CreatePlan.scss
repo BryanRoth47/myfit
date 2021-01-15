@@ -1,0 +1,19 @@
+@import 'theme.scss'; // use variables from theme.scss
+
+$button-border-width:2px;
+
+#create-button-prev {
+    background-color:$secondary-color;
+    border-width: $button-border-width;
+    margin-left: 100px;
+}
+
+#create-button-next{
+    background-color: $primary-color;
+    border-width: $button-border-width;
+}
+
+:export {
+    backgroundNormal:$light-background-color;
+    backgroundSelected:$primary-color;
+}

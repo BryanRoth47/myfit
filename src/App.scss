@@ -1,0 +1,24 @@
+@import 'theme.scss';
+
+
+body {
+  //background-image: url('assets/images/bg-pattern.png');
+  //background-size: cover;
+  // background-repeat: no-repeat;
+  height:100%;
+  overflow: hidden;
+}
+
+#my-navbar {
+  background-color: $navbar-color;
+  box-shadow: 1px 1px 10px rgb(92, 91, 91);
+
+  h2 {
+    color: $complementary-color;
+  }
+  a {
+    color: $light-text-color;
+    margin: 0px 12px;
+    font-size: 20px;
+  }
+}

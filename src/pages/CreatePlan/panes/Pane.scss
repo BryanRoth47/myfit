@@ -1,0 +1,13 @@
+@import 'theme.scss'; // use variables from theme.scss
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  //margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+  background-color: $light-background-color;
+}

@@ -1,0 +1,48 @@
+Additional details for alg_v1.pdf
+
+* I think we can ignore Male/Female for now. All exercises are unisex.
+* skip 5-day for now
+
+Equipment
+    - dumbbells
+    - bench
+    - barbell
+    - pull-up bar
+    - squat rack
+
+Exercises with tags (fitness level and equipment)
+    Back
+        - pull-ups (fit level 3-5, pull-up bar)
+        - deadlift (fitness level 1-5, dumbbells or barbell)
+    Biceps
+        - chin-ups (fit level 3-5, pull-up bar)
+        - dumbbell bicep curls (fit level 1-5, dumbbells)
+        - barbell bicep curls (fit level 1-5, barbell)
+    Chest
+        - push-ups (fit level 2-5)
+        - barbell bench press (fit level 1-5, barbell, bench)
+        - dumbbell bench press (fit level 1-5, dumbbell, bench)
+    Tricep
+        - Tricep dips (fit level 1-5)
+        - bench tricep dips (fit level 1-5, bench)
+        - dumbbell tricep extensions (fit level 1-5, dumbbell)
+    Legs
+        - squats (fit level 1-5)
+        - barbell squats (fit level 2-5, squat rack, barbell)
+    Cardio
+        - running (fit level 1-5)
+
+
+Generating fitness plan after user fills out form...
+1) Pick 1 exercise from each group where the user matches the "tags"
+2) Create a plan based on Frequency field
+1-day: all exercises
+2-day: Monday (chest, tricep, back, bicep)
+       Wednesday (legs, cardio)
+3-day Monday (Back, Bicep)
+      Wednesday (Chest, Tricep)
+      Friday (legs, cardio)
+3) Adjust exercise repetitions based on Goal
+Lose weight: 12-15 Target Repetitions
+Overall fitness: 8-10 Target Repetitions
+Bulk up: 3-6 Target Repetitions
