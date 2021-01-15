@@ -28,7 +28,7 @@ const AuthStateApp = () => {
                 history.push('/create-plan'); // user signs in
                 //history.push('/login'); // user signs in
               } else if (prevState === AuthState.SignedIn && nextAuthState !== AuthState.SignedIn) {
-                history.push('/home'); // user signs out
+                history.push('/'); // user signs out
               }
               return nextAuthState;
             });

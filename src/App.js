@@ -36,10 +36,6 @@ function App() {
       <Switch>
         <Route path="/login">
         </Route>
-        <Route path="/home">
-          <CustomNavBar />
-          <Home />
-        </Route>
         <Route path="/create-plan">
           <CustomNavBar />
           <CreatePlan />
@@ -50,9 +46,13 @@ function App() {
           <ViewPlans display={handleShow} />
         </Route>
         <Route path="/">
+          <CustomNavBar />
+          <Home />
+        </Route>
+        <Route path="/">
           <Redirect
             to={{
-              pathname: "/home",
+              pathname: "/",
             }}
           />
         </Route>

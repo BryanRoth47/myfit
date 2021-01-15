@@ -20,7 +20,7 @@ const CustomNavBar = ({loggedIn}) => {
         <h2>MyFitPlanner</h2>
       </NavbarBrand>
       <NavLink
-        to="/home"
+        to="/"
         activeStyle={{
           fontWeight: "bold",
           textDecoration: "underline",
