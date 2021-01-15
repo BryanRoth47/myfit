@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myfit/static/css/main.67fcf631.chunk.css",
+    "main.css": "/myfit/static/css/main.c15ef0c7.chunk.css",
     "main.js": "/myfit/static/js/main.b2d0a890.chunk.js",
     "main.js.map": "/myfit/static/js/main.b2d0a890.chunk.js.map",
     "polyfills-css-shim.js": "/myfit/static/js/polyfills-css-shim.cd658053.chunk.js",
@@ -73,10 +73,10 @@
     "static/js/34.8ffa8f7a.chunk.js": "/myfit/static/js/34.8ffa8f7a.chunk.js",
     "static/js/34.8ffa8f7a.chunk.js.map": "/myfit/static/js/34.8ffa8f7a.chunk.js.map",
     "index.html": "/myfit/index.html",
-    "precache-manifest.15e285594445e2a6b92fd2b69c4116a7.js": "/myfit/precache-manifest.15e285594445e2a6b92fd2b69c4116a7.js",
+    "precache-manifest.5c8da2056d729343fcf7d28edf047672.js": "/myfit/precache-manifest.5c8da2056d729343fcf7d28edf047672.js",
     "service-worker.js": "/myfit/service-worker.js",
     "static/css/3.e5ed2915.chunk.css.map": "/myfit/static/css/3.e5ed2915.chunk.css.map",
-    "static/css/main.67fcf631.chunk.css.map": "/myfit/static/css/main.67fcf631.chunk.css.map",
+    "static/css/main.c15ef0c7.chunk.css.map": "/myfit/static/css/main.c15ef0c7.chunk.css.map",
     "static/js/15.c7e3c7bd.chunk.js.LICENSE.txt": "/myfit/static/js/15.c7e3c7bd.chunk.js.LICENSE.txt",
     "static/js/3.65099c80.chunk.js.LICENSE.txt": "/myfit/static/js/3.65099c80.chunk.js.LICENSE.txt",
     "static/js/33.0238c29d.chunk.js.LICENSE.txt": "/myfit/static/js/33.0238c29d.chunk.js.LICENSE.txt"
@@ -85,7 +85,7 @@
     "static/js/runtime-main.508fb2b5.js",
     "static/css/3.e5ed2915.chunk.css",
     "static/js/3.65099c80.chunk.js",
-    "static/css/main.67fcf631.chunk.css",
+    "static/css/main.c15ef0c7.chunk.css",
     "static/js/main.b2d0a890.chunk.js"
   ]
 }

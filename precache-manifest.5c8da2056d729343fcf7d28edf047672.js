@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b192e483f9c4f40b353cbf0ee0d7ff6",
+    "revision": "9f374cb04161512cd8ced4586683b3de",
     "url": "/myfit/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myfit/static/css/3.e5ed2915.chunk.css"
   },
   {
-    "revision": "5bf2801b02cc5cb9cc2c",
-    "url": "/myfit/static/css/main.67fcf631.chunk.css"
+    "revision": "b5eac145f184aeba8192",
+    "url": "/myfit/static/css/main.c15ef0c7.chunk.css"
   },
   {
     "revision": "11c863ebe0298009569c",
@@ -152,7 +152,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/myfit/static/js/9.109ae0c7.chunk.js"
   },
   {
-    "revision": "5bf2801b02cc5cb9cc2c",
+    "revision": "b5eac145f184aeba8192",
     "url": "/myfit/static/js/main.b2d0a890.chunk.js"
   },
   {
