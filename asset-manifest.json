@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myfit/static/css/main.67fcf631.chunk.css",
-    "main.js": "/myfit/static/js/main.f3f8385e.chunk.js",
-    "main.js.map": "/myfit/static/js/main.f3f8385e.chunk.js.map",
+    "main.js": "/myfit/static/js/main.b2d0a890.chunk.js",
+    "main.js.map": "/myfit/static/js/main.b2d0a890.chunk.js.map",
     "polyfills-css-shim.js": "/myfit/static/js/polyfills-css-shim.cd658053.chunk.js",
     "polyfills-css-shim.js.map": "/myfit/static/js/polyfills-css-shim.cd658053.chunk.js.map",
     "runtime-main.js": "/myfit/static/js/runtime-main.508fb2b5.js",
@@ -73,7 +73,7 @@
     "static/js/34.8ffa8f7a.chunk.js": "/myfit/static/js/34.8ffa8f7a.chunk.js",
     "static/js/34.8ffa8f7a.chunk.js.map": "/myfit/static/js/34.8ffa8f7a.chunk.js.map",
     "index.html": "/myfit/index.html",
-    "precache-manifest.3c38533efb1e82e7d130a1b5873b769e.js": "/myfit/precache-manifest.3c38533efb1e82e7d130a1b5873b769e.js",
+    "precache-manifest.15e285594445e2a6b92fd2b69c4116a7.js": "/myfit/precache-manifest.15e285594445e2a6b92fd2b69c4116a7.js",
     "service-worker.js": "/myfit/service-worker.js",
     "static/css/3.e5ed2915.chunk.css.map": "/myfit/static/css/3.e5ed2915.chunk.css.map",
     "static/css/main.67fcf631.chunk.css.map": "/myfit/static/css/main.67fcf631.chunk.css.map",
@@ -86,6 +86,6 @@
     "static/css/3.e5ed2915.chunk.css",
     "static/js/3.65099c80.chunk.js",
     "static/css/main.67fcf631.chunk.css",
-    "static/js/main.f3f8385e.chunk.js"
+    "static/js/main.b2d0a890.chunk.js"
   ]
 }
